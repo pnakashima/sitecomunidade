@@ -4,3 +4,5 @@ Site feito em Python e Flask:
 - página de Login e Criar conta
 - página de Usuários
 - páginas para edição de Perfil e de Posts
+
+Link: https://comunidadenaka.herokuapp.com/
